@@ -1,6 +1,5 @@
 # September 18 Repo <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48">
 
-
 ---
 
 ## Git Definition List
@@ -17,6 +16,8 @@ Updates remote refs using local refs, while sending objects necessary to complet
 Incorporates changes from a remote repository into the current branch.
 
 ---
+
+## Handy Table
 
 | Action        | Use Frequency | Git Bash Cmd  |
 | ------------- |:-------------:| :-----|
