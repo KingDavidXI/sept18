@@ -1,14 +1,9 @@
-# September 18 Repo
+# September 18 Repo <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48">
 
-Descriptions for different git commands:
-
-![alt text][logo]
-
-[logo]: https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png "Git Logo"
 
 ---
 
-## Definition List
+## Git Definition List
 ### Commit
 Stores the current contents of the index in a new commit along with a log message from the user describing the changes.
 
@@ -25,9 +20,9 @@ Incorporates changes from a remote repository into the current branch.
 
 | Action        | Use Frequency | Git Bash Cmd  |
 | ------------- |:-------------:| :-----|
-| Commit    | Often | git commit |
+| Commit    | Very Often | git commit |
 | Clone      | Rarely      | git clone |
-| Push | Very Often      |    git push |
+| Push | Often      |    git push |
 | Pull | Often      |    git pull |
 
 ---
