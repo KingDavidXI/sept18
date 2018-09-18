@@ -19,6 +19,8 @@ Incorporates changes from a remote repository into the current branch.
 
 ## Handy Table
 
+<center>
+
 | Action        | Use Frequency | Git Bash Cmd  |
 | ------------- |:-------------:| :-----|
 | Commit    | Very Often | git commit |
@@ -26,10 +28,16 @@ Incorporates changes from a remote repository into the current branch.
 | Push | Often      |    git push |
 | Pull | Often      |    git pull |
 
+</center>
+  
 ---
 
 ## Helpful Video
 
+<center>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bqV-eszlRhY
 " target="_blank"><img src="http://img.youtube.com/vi/bqV-eszlRhY/0.jpg" 
 alt="Thanks for highlighting!" width="240" height="180" border="10" /></a>
+
+</center>
