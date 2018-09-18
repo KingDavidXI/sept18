@@ -4,12 +4,12 @@ Descriptions for different git commands:
 
 ![alt text][logo]
 
-[logo]: https://banner2.kisspng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg "Git Logo"
+[logo]: https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png "Git Logo"
 
 
 | Action        | Use Frequency | Git Bash Cmd  |
 | ------------- |:-------------:| -----:|
-| Commit    | right-aligned | git commit |
-| Clone      | centered      |   $12 |
-| Push | are neat      |    $1 |
-| Pull | are neat      |    $1 |
+| Commit    | Often | git commit |
+| Clone      | Rarely      | git clone |
+| Push | Very Often      |    git push |
+| Pull | Often      |    git pull |
